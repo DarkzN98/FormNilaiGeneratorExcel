@@ -1,0 +1,17 @@
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\bin\Debug\xlsxGenerator.exe.config
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\bin\Debug\xlsxGenerator.exe
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\bin\Debug\xlsxGenerator.pdb
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.csprojResolveAssemblyReference.cache
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.DatabasePrak.resources
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.Generator.resources
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.MainForm.resources
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.Properties.Resources.resources
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.csproj.GenerateResource.Cache
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.csproj.CoreCompileInputs.cache
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.exe
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.pdb
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.NrpGenerator.resources
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.NrpAdd.resources
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.KritAdd.resources
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.LoadPraktikum.resources
+H:\Projects\Coding\XlsGeneratorNilai\xlsxGenerator\xlsxGenerator\obj\Debug\xlsxGenerator.csproj.ResolveComReference.cache
